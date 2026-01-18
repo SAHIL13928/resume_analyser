@@ -1,7 +1,6 @@
 import json
 from core.pipeline import ResumeScreeningPipeline
 from utils.file_loader import load_job_description, FileLoadError
-
 def main():
     try:
         resume_path = input("Enter resume file path: ")
