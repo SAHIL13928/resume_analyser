@@ -98,11 +98,11 @@ Instead, it demonstrates:
 
 ---
 
-## ⚙️ Setup Instructions (Step-by-Step)
+##  Setup Instructions (Step-by-Step)
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SAHIL13928/resume_analyser
 cd resume_analyser
 ```
 
