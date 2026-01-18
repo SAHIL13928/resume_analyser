@@ -1,4 +1,4 @@
-# resume_analyser
+
 #  Agentic Resume Screening & Shortlisting Assistant
 
 This project implements an **agentic, explainable resume screening system** that evaluates how well a candidate’s resume matches a given job description and recommends next steps in the hiring process.
